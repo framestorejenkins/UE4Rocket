@@ -1,0 +1,7 @@
+[submodule "UnrealEngine"]
+	path = UnrealEngine
+	url = https://github.com/EpicGames/UnrealEngine.git
+	branch = 4.12
+[submodule "UE4RocketBuild"]
+	path = UE4RocketBuild
+	url = https://github.com/Kalmalyzer/UE4RocketBuild.git
